@@ -1,8 +1,8 @@
 # Image-Viewer
 This is a simple program to view images and provides a user friendly space to view an edit image files using Java language.
 
-## How to use
-You can run this project in a java IDE
+## How to Use it
+You can simply extract the file and run this project in a java IDE.
 
 ## Features
 1. Showing Images
